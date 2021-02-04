@@ -1,4 +1,5 @@
 INFO 6540 Group Assignment #1
+
 Organization: The BoardRoom Game Cafe in Halifax, NS
 Mission Statement:The purpose of the BoardRoom Game Cafe database is to consolidate the data used to run the cafe and its retail services to better fulfill the needs of avid board game players in the Halifax community.
 Objective 1: To maintain customer information and membership profiles, including: membership points, purchasing activity, and contact information.
