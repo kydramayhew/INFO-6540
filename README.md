@@ -15,3 +15,4 @@ Objective 3: Track sales from both the cafe and retail section of the business.
 Objective 4: Keep in-store game collection up to date and comprehensive.
 
 Objective 5: Track store activity, including: busiest times, reservations, promotions and event schedules.
+
